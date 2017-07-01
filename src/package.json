@@ -1,0 +1,26 @@
+{
+  "name": "ng-media-library",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tientq/ng-media-library"
+  },
+  "author": {
+    "name": "Tien Tran",
+    "email": "tientq@dkt.com.vn"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tientq/ng-media-library/issues"
+  },
+  "module": "ng-media-library.js",
+  "typings": "ng-media-library.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
